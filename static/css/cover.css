@@ -97,6 +97,16 @@ body {
   font-weight: 700;
 }
 
+.social {
+  font-size: 3em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.social .social-item {
+  margin-right: 10px;
+}
 
 /*
  * Footer
