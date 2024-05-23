@@ -108,6 +108,9 @@ body {
   margin-right: 10px;
 }
 
+.social .social-item a>img {
+  width: 1.5em;
+}
 /*
  * Footer
  */
